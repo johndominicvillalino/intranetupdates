@@ -1,0 +1,30 @@
+
+.heading {
+text-align: center;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.center-text {
+text-align: center;
+
+}
+
+.feeds {
+  border-top: dotted 1px;
+  padding-top: 40px;
+}
+
+.changes {
+  padding-top: 10px;
+}
+
+.btnOwn {
+
+border-radius: 20px;
+width: 100px;
+margin-right: 20px;
+margin-bottom: 8px;
+
+
+}
